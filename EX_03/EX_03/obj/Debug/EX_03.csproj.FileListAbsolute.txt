@@ -1,0 +1,7 @@
+W:\FESA\provas\1S\algoritimos\N1_2B\EX_03\EX_03\bin\Debug\EX_03.exe.config
+W:\FESA\provas\1S\algoritimos\N1_2B\EX_03\EX_03\bin\Debug\EX_03.exe
+W:\FESA\provas\1S\algoritimos\N1_2B\EX_03\EX_03\bin\Debug\EX_03.pdb
+W:\FESA\provas\1S\algoritimos\N1_2B\EX_03\EX_03\obj\Debug\EX_03.csproj.AssemblyReference.cache
+W:\FESA\provas\1S\algoritimos\N1_2B\EX_03\EX_03\obj\Debug\EX_03.csproj.CoreCompileInputs.cache
+W:\FESA\provas\1S\algoritimos\N1_2B\EX_03\EX_03\obj\Debug\EX_03.exe
+W:\FESA\provas\1S\algoritimos\N1_2B\EX_03\EX_03\obj\Debug\EX_03.pdb
