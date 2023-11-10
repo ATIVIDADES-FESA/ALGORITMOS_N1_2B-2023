@@ -11,17 +11,17 @@ namespace EX_02
         static void Main(string[] args)
         {
             string result;
-            int value, total;
-            total = 1;
+            Int64 value, total;
 
             Console.WriteLine("Digite um número: ");
-            value = int.Parse(Console.ReadLine());
+            value = Int64.Parse(Console.ReadLine());
             result = $"{value}";
-
-            for (int i = value; i > 1; i--)
+            
+            total = value;
+            for (Int64 i = value - 1; i > 0; i--)
             {
                 total *= i;
-                result += $" x {i - 1}";
+                result += $" x {i}";
             }
 
             Console.WriteLine($"{value}! = {result} = {total}");

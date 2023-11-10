@@ -5,3 +5,10 @@ W:\FESA\ALGORITMOS\EXERCICIOS\N1_2B\EX_02\EX_02\obj\Debug\EX_02.csproj.AssemblyR
 W:\FESA\ALGORITMOS\EXERCICIOS\N1_2B\EX_02\EX_02\obj\Debug\EX_02.csproj.CoreCompileInputs.cache
 W:\FESA\ALGORITMOS\EXERCICIOS\N1_2B\EX_02\EX_02\obj\Debug\EX_02.exe
 W:\FESA\ALGORITMOS\EXERCICIOS\N1_2B\EX_02\EX_02\obj\Debug\EX_02.pdb
+W:\FESA\provas\1S\algoritimos\N1_2B\EX_02\EX_02\bin\Debug\EX_02.exe.config
+W:\FESA\provas\1S\algoritimos\N1_2B\EX_02\EX_02\bin\Debug\EX_02.exe
+W:\FESA\provas\1S\algoritimos\N1_2B\EX_02\EX_02\bin\Debug\EX_02.pdb
+W:\FESA\provas\1S\algoritimos\N1_2B\EX_02\EX_02\obj\Debug\EX_02.csproj.AssemblyReference.cache
+W:\FESA\provas\1S\algoritimos\N1_2B\EX_02\EX_02\obj\Debug\EX_02.csproj.CoreCompileInputs.cache
+W:\FESA\provas\1S\algoritimos\N1_2B\EX_02\EX_02\obj\Debug\EX_02.exe
+W:\FESA\provas\1S\algoritimos\N1_2B\EX_02\EX_02\obj\Debug\EX_02.pdb
